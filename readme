@@ -1,1 +1,46 @@
+🚢 Titanic Dataset Analysis using Power BI
 
+This project focuses on analyzing the famous Titanic dataset using Power BI to uncover meaningful insights about passenger survival patterns and the factors that influenced the tragedy of 1912.
+
+The dataset includes information about passengers such as age, gender, ticket class, fare, family size, and survival status, making it ideal for data exploration, visualization, and storytelling.
+
+📊 Project Overview
+
+Using Power BI, the raw Titanic dataset was transformed into an interactive dashboard to perform exploratory data analysis (EDA) and identify hidden patterns in the data.
+
+The analysis primarily investigates how different factors such as social class, gender, and age impacted survival rates during the disaster.
+
+🧹 Data Preparation
+
+Before visualization, the dataset was cleaned and transformed using Power Query, including:
+
+Handling missing values (especially in Age and Cabin fields)
+Removing or correcting inconsistent data
+Creating new calculated columns (e.g., Age Groups, Family Size)
+Formatting categorical variables for better analysis
+📈 Key Visualizations in Power BI
+
+The dashboard includes several interactive visuals such as:
+
+Survival rate by gender
+Survival rate by passenger class (1st, 2nd, 3rd)
+Age distribution of survivors and non-survivors
+Fare distribution analysis
+Family size impact on survival
+Interactive filters and slicers for deeper exploration
+🔍 Key Insights
+
+From the analysis, several important patterns were discovered:
+
+Women and children had a significantly higher survival rate
+Passengers in 1st class had better chances of survival compared to 3rd class
+Higher fare payment was generally associated with higher survival probability
+Survival chances were influenced by social and economic status
+📌 Tools & Technologies
+Power BI Desktop
+Power Query (Data Cleaning & Transformation)
+DAX (Data Analysis Expressions)
+Kaggle Titanic Dataset
+🎯 Conclusion
+
+This project demonstrates how Power BI can transform historical raw data into interactive and meaningful insights. It highlights the importance of data visualization in understanding patterns, making decisions, and telling data-driven stories.
